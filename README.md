@@ -29,3 +29,5 @@ The visualizations created in this project were developed using Microsoft Power 
 
 ![Screenshot 2024-10-08 185211](https://github.com/user-attachments/assets/588bd9c3-3ee3-40d2-800f-ff8bff6028cc)
 
+![Screenshot 2024-10-08 185055](https://github.com/user-attachments/assets/da9fcee5-4f5f-42ff-b4c2-bbe541fb6dc1)
+
