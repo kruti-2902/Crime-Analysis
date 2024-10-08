@@ -22,8 +22,10 @@ Provides a yearly summary of total crime statistics.
 Includes crime data for each state/UT from 2016 to 2021.
 Facilitates the analysis of trends and changes in crime rates over time.
 
-
 ### Deployment
 
 The visualizations created in this project were developed using Microsoft Power BI. The deployment involves publishing the Power BI reports to the Power BI service, enabling easy sharing and accessibility. Users can explore insights through an intuitive interface, helping stakeholders analyze crime trends and patterns effectively.
+
+
+![Screenshot 2024-10-08 185211](https://github.com/user-attachments/assets/588bd9c3-3ee3-40d2-800f-ff8bff6028cc)
 
